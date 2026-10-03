@@ -1,0 +1,4 @@
+flask
+retell-sdk
+twilio
+python-dotenv
