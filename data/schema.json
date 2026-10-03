@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HousingSupportCall",
+  "type": "object",
+  "properties": {
+    "caller_name": {
+      "type": ["string", "null"]
+    },
+    "location": {
+      "type": ["string", "null"]
+    },
+    "housing_status": {
+      "type": ["string", "null"]
+    },
+    "reason_for_call": {
+      "type": ["string", "null"]
+    },
+    "monthly_income": {
+      "type": ["number", "null"]
+    },
+    "household_size": {
+      "type": ["integer", "null"]
+    },
+    "assistance_needed": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "urgency": {
+      "type": ["string", "null"],
+      "enum": ["low", "medium", "high", null]
+    },
+    "next_steps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "caller_name",
+    "location",
+    "housing_status",
+    "reason_for_call",
+    "monthly_income",
+    "household_size",
+    "assistance_needed",
+    "urgency",
+    "next_steps"
+  ],
+  "additionalProperties": false
+}

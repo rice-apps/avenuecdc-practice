@@ -1,0 +1,128 @@
+{
+  "transcript": [
+    {
+      "speaker": "agent",
+      "text": "Thank you for calling Community Housing Support. My name is Sarah. How can I help you today?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Hi, um, I'm calling because I'm having some trouble paying rent right now, and I wanted to see if there are any programs that could help me."
+    },
+    {
+      "speaker": "agent",
+      "text": "Absolutely. I can ask you a few questions and see what resources might be available. What is your name?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Robert Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks, Robert. What city do you currently live in?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Houston, Texas."
+    },
+    {
+      "speaker": "agent",
+      "text": "And are you currently renting, or do you own your home?"
+    },
+    {
+      "speaker": "caller",
+      "text": "I'm renting an apartment."
+    },
+    {
+      "speaker": "agent",
+      "text": "How much is your monthly rent?"
+    },
+    {
+      "speaker": "caller",
+      "text": "It's $1,450 a month."
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you currently behind on rent?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Yeah. I'm about two months behind. I owe around $2,900 right now."
+    },
+    {
+      "speaker": "agent",
+      "text": "Have you received an eviction notice from your landlord?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Not an actual eviction notice yet. They sent me a notice saying I need to pay the balance by October 15th or they may start the eviction process."
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. And what caused you to fall behind?"
+    },
+    {
+      "speaker": "caller",
+      "text": "I lost my job in August. I was working full-time at a warehouse, but they cut a bunch of positions. I've been doing some delivery work since then, but it's not enough to cover everything."
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you currently receiving unemployment benefits or any other assistance?"
+    },
+    {
+      "speaker": "caller",
+      "text": "I'm getting unemployment. It's about $1,200 a month. I also get SNAP for groceries."
+    },
+    {
+      "speaker": "agent",
+      "text": "How many people currently live in your household?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Three. Me and my two kids."
+    },
+    {
+      "speaker": "agent",
+      "text": "And are both children under 18?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Yes. They're eight and twelve."
+    },
+    {
+      "speaker": "agent",
+      "text": "Do you currently have any income besides unemployment and the delivery work?"
+    },
+    {
+      "speaker": "caller",
+      "text": "The delivery work varies, but probably around $500 a month."
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, so approximately $1,700 per month in household income right now?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Yeah, that's about right."
+    },
+    {
+      "speaker": "agent",
+      "text": "Is your biggest concern rental assistance, or are there other housing-related issues you're dealing with?"
+    },
+    {
+      "speaker": "caller",
+      "text": "Rent is definitely the biggest thing. I'm also behind on my electricity bill. I think I owe about $320, and I got a shutoff warning for October 10th."
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood. Based on what you've told me, we should look at both emergency rental assistance and utility assistance. I'll also want to check whether there are any eviction-prevention programs available in your area."
+    },
+    {
+      "speaker": "caller",
+      "text": "Okay, that would be great. I mostly just don't want us to lose the apartment."
+    },
+    {
+      "speaker": "agent",
+      "text": "Of course. Let me collect your contact information, and then we can go through the programs you may qualify for."
+    }
+  ]
+}
